@@ -8,6 +8,9 @@
 广东珠江,http://113.101.119.55:808/hls/105/index.m3u8
 广东珠江,http://113.101.119.55:8090/hls/105/index.m3u8
 广东珠江,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8
+广东珠江,http://61.146.224.42:8088/hls/2/index.m3u8
+广东珠江,http://113.101.119.76:808/hls/105/index.m3u8
+广东珠江,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 央视频道,#genre#
@@ -31,3 +34,11 @@ CCTV13,http://222.240.82.92:9901/tsfile/live/0013_1.m3u8
 CCTV13,http://59.44.102.18:8888/newlive/live/hls/15/live.m3u8
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://115.171.216.22:4000/udp/225.1.1.10:8128
+凤凰卫视,#genre#
+凤凰卫视HD,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰卫视资讯台,http://183.141.216.16:9999/udp/233.50.200.192:5140
+凤凰卫视资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰卫视资讯台,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+凤凰卫视资讯台,http://120.84.121.199:808/hls/28/index.m3u8
+凤凰卫视资讯台,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+凤凰卫视资讯台,http://01e117.netsite.cc/proxy/1650326537/1650326537.m3u8

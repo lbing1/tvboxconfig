@@ -8,6 +8,9 @@
 广东珠江,http://61.146.224.42:8088/hls/2/index.m3u8
 广东珠江,http://113.101.119.76:808/hls/105/index.m3u8
 广东珠江,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
+广东珠江,http://113.110.72.52:808/hls/105/index.m3u8
+广东珠江,http://171.108.239.99:8181/tsfile/live/1001_1.m3u8
+广东珠江,http://www.zzlag.top:9087/tsfile/live/1037_1.m3u8?key=txiptv
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,http://171.108.239.79:8181/tsfile/live/1005_1.m3u8
